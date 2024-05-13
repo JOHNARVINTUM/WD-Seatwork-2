@@ -1,0 +1,30 @@
+*{
+    background-color: black;
+}
+
+header{ 
+    text-align: center;
+    font-size: 50px;
+}
+p{ 
+    font-size: 15px;
+    color: white;
+    
+}
+
+.contact{
+    flex-direction: column;
+    & > p {
+        color: white;
+    }
+}
+
+div {
+    display: flex;
+    flex-direction:row;
+    gap: 5px;
+    color: white;
+}
+img {
+    width: 10%;
+}
