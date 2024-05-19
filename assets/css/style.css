@@ -1,30 +1,128 @@
 *{
-    background-color: black;
+background-color: rgb(107, 241, 156);
+gap:20px;
+
+
 }
 
-header{ 
+header{
     text-align: center;
     font-size: 50px;
+    background-color: darkolivegreen;
+    color: rgb(255, 255, 255);
 }
-p{ 
-    font-size: 15px;
+
+h1{
     color: white;
+    background-color: darkolivegreen;
+}
+
+p{
+    color: black;
+    margin-top: -10px;
+
+}
+.picture{
+    column-gap: 10px;
+    display: flex;
+    flex-direction:row;
+    font-size: 24px;
     
 }
 
-.contact{
+
+.NAY{
+
+    display:flex;
+    justify-content: space-around;
     flex-direction: column;
-    & > p {
-        color: white;
-    }
+    text-align: left;
+    font-size: 25px;
+    
+ 
+}
+.NAY2{
+
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: 25px;
+    justify-self: flex-end;
+}
+.Name {
+font-size: 25px;
+display: flex;
+flex-direction: row;
+text-align: center;
+
+
 }
 
+.skills{
+    display: grid;
+    grid-row: 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+
+.contact{
+
+    display: wrap;
+    flex-direction: column;
+    text-align: left;
+    font-size: 25px;
+    color: black;
+
+}
+
+.about{
+    display: wrap;
+    flex-direction: column;
+    text-align: left;
+    font-size: 25px;
+}
 div {
     display: flex;
     flex-direction:row;
-    gap: 5px;
-    color: white;
+    color: black;
 }
 img {
-    width: 10%;
+    margin-top: 30px;
+   width: 10%;
+   height: 5%;
+  }
+
+.e{
+    display: wrap;
+    flex-direction: column;
+    gap: 1px; ;
+    text-align: left;
+}
+.s{
+    display: wrap;
+    flex-direction: column;
+    gap: 1px; ;
+    text-align: left;
+}
+.a{
+    display: wrap;
+    flex-direction: column;
+    gap: 1px; ;
+    text-align: left;
+}
+.c{
+    display: wrap;
+    flex-direction: column;
+    gap: 1px; ;
+    text-align: left;
+}
+
+.In{
+    display: wrap;
+    flex-direction: column;
+    text-align: left;
+    font-size: 25px;
 }
