@@ -57,20 +57,20 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+WD-Seatwork 2 description
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- WD-Seatwork 2 
+- To create resume and learn wireframe
+- HTML and CSS
+- VSCODE and extensions
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Resume
+- Index.html
+- Wireframe
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3School | Css tutorial | [trykolang.com](https://www.w3schools.com/css/) |
