@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| W3School | Css tutorial | [trykolang.com](https://www.w3schools.com/css/) |
+| W3School | Css tutorial | https://www.w3schools.com/css/ |
