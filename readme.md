@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/JOHNARVINTUM/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/ID PIC.jpg" alt="Nyebe" width= 50% height= 50%>
+    <img src="./assets/img/ID PIC.j" alt="Nyebe" width= 50% height= 50%>
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WD-SEATWORK 2</h3>
