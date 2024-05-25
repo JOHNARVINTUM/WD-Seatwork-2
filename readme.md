@@ -84,7 +84,7 @@ Guiding Question:
 3. File Structure to follow
 
 ```
-WD-ProjectName
+WD-Seatwork 2
 └─ assets
 |   └─ css
 |   |   └─ style.css
