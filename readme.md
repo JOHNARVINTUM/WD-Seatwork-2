@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  <p> My name is John Arvin S. Tumbagahon" </p> <br> <p> I am a 1st year Student at FEU Institute of Technology </p>(Optional)
+  <p> My name is John Arvin S. Tumbagahon </p> <br> <p> I am a 1st year Student at FEU Institute of Technology </p>(Optional)
 </div>
 
 <br />
