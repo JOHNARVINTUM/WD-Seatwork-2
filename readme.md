@@ -57,10 +57,10 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-WD-Seatwork 2 description
+WD-Seatwork-2 description
 
 Guiding Question:
-- WD-Seatwork 2 
+- WD-Seatwork-2 
 - To create resume and learn wireframe
 - HTML and CSS
 - VSCODE and extensions
